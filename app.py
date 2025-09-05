@@ -134,4 +134,5 @@ with col2:
 
 # --- Pie de Página ---
 st.markdown("---")
-st.markdown("Creado con ❤️ por [Tu Nombre o Usuario] usando [Streamlit](https://streamlit.io).")
+
+st.markdown("Creado con ❤️ por [Natalia Valentina] usando [Streamlit](https://streamlit.io).")
